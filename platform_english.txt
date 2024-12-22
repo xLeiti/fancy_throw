@@ -1,0 +1,28 @@
+"lang"
+{
+"Language" "English"
+"Tokens"
+{
+
+		
+	"Ignore_Broadcast_Messages"			"[FancyThrow] by Leiti"
+	"Ignore_Broadcast_Team_Messages"		">	Press \"p	\" and move your mouse around till you hear a bip sound."
+	"Accept_All_Messages"			">	Let go of \"p	\" and you are done. Enjoy❗"
+
+	"CFG_Inferno_Ct1"                    "[CT] \n No fast smoke ☹ \n Inferno \n SPAWN 1 \n     \n  \n  \n  \n "
+	"CFG_Inferno_Ct2"                    "[CT] \n INSTANT ☁ smoke \n Inferno \n SPAWN 2 \n WJT & FJT \n  \n  \n  \n "
+	"CFG_Inferno_Ct3"                    "[CT] \n INSTANT ☁ smoke \n Inferno \n SPAWN 3 \n FJT \n  \n  \n  \n "
+	"CFG_Inferno_Ct4"                    "[CT] \n INSTANT ☁ smoke \n Inferno \n SPAWN 4 \n FJT \n  \n  \n  \n "
+	"CFG_Inferno_Ct5"                    "[CT] \n INSTANT ☁ smoke \n Inferno \n SPAWN 5 \n FJT \n  \n  \n  \n "
+	"CFG_Inferno_Ct6"                    "[CT] \n INSTANT ☁ smoke \n Inferno \n SPAWN 6 \n FJT \n  \n  \n  \n "
+	"CFG_Inferno_T1"                     "[T] \n CT-Boost ♨ molotov \n Inferno \n BANANA LOGS \n FJT \n  \n  \n  \n "
+
+	"CFG_Mirage_T1"                    "[T] \n INSTANT ☁ smoke \n Mirage \n SPAWN 1 \n WJT & FJT \n  \n  \n  \n "
+	"CFG_Mirage_T2"                    "[T] \n INSTANT ☁ smoke \n Mirage \n SPAWN 2 \n WJT & FJT \n  \n  \n  \n "
+	"CFG_Mirage_T3"                    "[T] \n INSTANT ☁ smoke \n Mirage \n SPAWN 3 \n WJT & FJT \n  \n  \n  \n "
+	"CFG_Mirage_T4"                    "[T] \n INSTANT ☁ smoke \n Mirage \n SPAWN 4 \n WJT & FJT \n  \n  \n  \n "
+	"CFG_Mirage_T5"                    "[T] \n INSTANT ☁ smoke \n Mirage \n SPAWN 5 \n WJT & FJT \n  \n  \n  \n "
+	"CFG_Mirage_T6"                    "[T] \n Tripple ♨ molotov \n Mirage \n T ROOF \n FJT \n  \n  \n  \n "
+	"CFG_Mirage_T7"                    "[T] \n Default ♨ molotov \n Mirage \n T ROOF \n FJT \n  \n  \n  \n "
+
+}
