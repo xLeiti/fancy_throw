@@ -1,4 +1,4 @@
-# fancy_throw
+# fancythrow
 experimental cs2 JT-bind to automate throwing utility a special trajectory 
 
 No use of external macros or exec_async. We read the ingame time and use mouse_x & mouse_y for inputs.
