@@ -6,7 +6,7 @@
 
 		
 	"Ignore_Broadcast_Messages"			"[FancyThrow] by Leiti"
-	"Ignore_Broadcast_Team_Messages"		">	Press \"p	\" and move your mouse around till you hear a bip sound."
+	"Ignore_Broadcast_Team_Messages"		">	Press \"p	\" and move your mouse around till you hear a beep sound."
 	"Accept_All_Messages"			">	Let go of \"p	\" and you are done. Enjoy❗"
 
 	"CFG_Inferno_Ct1"                    "[CT] \n No fast smoke ☹ \n Inferno \n SPAWN 1 \n     \n  \n  \n  \n "
@@ -15,6 +15,7 @@
 	"CFG_Inferno_Ct4"                    "[CT] \n INSTANT ☁ smoke \n Inferno \n SPAWN 4 \n FJT \n  \n  \n  \n "
 	"CFG_Inferno_Ct5"                    "[CT] \n INSTANT ☁ smoke \n Inferno \n SPAWN 5 \n FJT \n  \n  \n  \n "
 	"CFG_Inferno_Ct6"                    "[CT] \n INSTANT ☁ smoke \n Inferno \n SPAWN 6 \n FJT \n  \n  \n  \n "
+	"CFG_Inferno_Ct7"                    "[CT] \n 2nd Mid ☁ smoke \n Inferno \n A Corner 6 \n JT & FJT \n  \n  \n  \n "
 	"CFG_Inferno_T1"                     "[T] \n CT-Boost ♨ molotov \n Inferno \n BANANA LOGS \n FJT \n  \n  \n  \n "
 
 	"CFG_Mirage_T1"                    "[T] \n INSTANT ☁ smoke \n Mirage \n SPAWN 1 \n WJT & FJT \n  \n  \n  \n "
@@ -24,5 +25,20 @@
 	"CFG_Mirage_T5"                    "[T] \n INSTANT ☁ smoke \n Mirage \n SPAWN 5 \n WJT & FJT \n  \n  \n  \n "
 	"CFG_Mirage_T6"                    "[T] \n Tripple ♨ molotov \n Mirage \n T ROOF \n FJT \n  \n  \n  \n "
 	"CFG_Mirage_T7"                    "[T] \n Default ♨ molotov \n Mirage \n T ROOF \n FJT \n  \n  \n  \n "
+
+	"CFG_Anubis_Ct1"                    "[CT] \n Stairs ♨ molotov \n Anubis \n Mid Doors \n FJT \n  \n  \n  \n "
+	"CFG_Anubis_Ct2"                    "[CT] \n A-Door ♨ molotov \n Anubis \n Mid Doors \n JT & FJT \n  \n  \n  \n "
+	"CFG_Anubis_T1"                    "[T] \n Mid-Door ♨ molotov \n Anubis \n T Mid \n FJT \n  \n  \n  \n "
+
+	"CFG_MAP_Anubis"             	"ANUBIS  	\n  \n  \n  \n  \n "
+	"CFG_MAP_Inferno"             	"INFERNO  	\n  \n  \n  \n  \n "
+	"CFG_MAP_Mirage"             	"MIRAGE  	\n  \n  \n  \n  \n "
+	"CFG_MAP_Vertigo"             	"VERTIGO  	\n  \n  \n  \n  \n "
+	"CFG_MAP_Dust2"             	"DUST2  	\n  \n  \n  \n  \n "
+	"CFG_MAP_Nuke"             	"NUKE  		\n  \n  \n  \n  \n "
+	"CFG_MAP_Ancient"             	"ANCIENT  	\n  \n  \n  \n  \n "
+	"CFG_MAP_Thera"             	"THERA  	\n  \n  \n  \n  \n "
+	"CFG_MAP_Overpass"             	"OVERPASS  	\n  \n  \n  \n  \n "
+	"CFG_MAP_Train"             	"TRAIN  	\n  \n  \n  \n  \n "
 
 }
